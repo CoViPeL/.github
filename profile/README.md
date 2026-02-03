@@ -1,9 +1,11 @@
 # Computational Vision and Perception Lab (CoViPeL)
 
 <p align="center">
-  <img src="https://github.com/CoViPeL/.github/blob/main/images/banner.png?raw=true" 
-       width="100%" 
-       style="max-height: 400px; object-fit: cover;" />
+  <img 
+    src="https://github.com/CoViPeL/.github/blob/main/images/banner.png?raw=true"
+    width="1100"
+    alt="CoViPeL Banner"
+  />
 </p>
 
 You can visit the [CoViPeL](https://schtify.me/) for more information.
