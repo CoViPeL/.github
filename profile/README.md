@@ -1,11 +1,4 @@
 # Computational Vision and Perception Lab (CoViPeL)
-<p align="center">
-  <img 
-    src="https://github.com/CoViPeL/.github/blob/main/images/banner.png?raw=true"
-    width="1100"
-    alt="CoViPeL Banner"
-  />
-</p>
 
 Join Slack - https://join.slack.com/t/covipel/shared_invite/zt-3p2gv9k1x-Fac8d19L_dWGXZ5yHBFyjw
 
