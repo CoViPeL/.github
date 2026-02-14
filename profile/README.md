@@ -1,6 +1,6 @@
 # Computational Vision and Perception Lab (CoViPeL)
 
-Join Slack - https://join.slack.com/t/covipel/shared_invite/zt-3p2gv9k1x-Fac8d19L_dWGXZ5yHBFyjw
+Join Slack - slack.covipel.dev
 
 CoViPeL was created in order to make interactive computing more accessible, powerful, and transformational for research and education.
 
